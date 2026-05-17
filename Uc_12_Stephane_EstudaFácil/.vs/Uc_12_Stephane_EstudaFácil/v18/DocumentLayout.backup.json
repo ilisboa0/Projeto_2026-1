@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|c:\\users\\silvana 2\\source\\repos\\uc_12_stephane_estudaf\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\frm_matriculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|solutionrelative:uc_12_stephane_estudaf\u00E1cil\\frm_matriculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|c:\\users\\silvana 2\\source\\repos\\uc_12_stephane_estudaf\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\frm_professores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|solutionrelative:uc_12_stephane_estudaf\u00E1cil\\frm_professores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|c:\\users\\silvana 2\\source\\repos\\uc_12_stephane_estudaf\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\frm_matriculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|solutionrelative:uc_12_stephane_estudaf\u00E1cil\\frm_matriculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\frm_professores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|solutionrelative:uc_12_stephane_estudaf\u00E1cil\\frm_professores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\uc_12_stephane_estudaf\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A62C1059-D0B7-42F2-8822-690F60087770}|Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil.csproj|solutionrelative:uc_12_stephane_estudaf\u00E1cil\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Professores.cs",
+              "DocumentMoniker": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs",
+              "RelativeDocumentMoniker": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs",
+              "ToolTip": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs",
+              "RelativeToolTip": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs",
+              "ViewState": "AgIAAG4CAAAAAAAAAAAgwIQCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:24:41.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Matriculas.cs",
+              "DocumentMoniker": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs",
+              "RelativeDocumentMoniker": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs",
+              "ToolTip": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs",
+              "RelativeToolTip": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAowOAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:24:37.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Matriculas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs",
+              "RelativeDocumentMoniker": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs",
+              "ToolTip": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs [Design]",
+              "RelativeToolTip": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Matriculas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:23:34.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Professores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs",
+              "RelativeDocumentMoniker": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs",
+              "ToolTip": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs [Design]",
+              "RelativeToolTip": "Uc_12_Stephane_EstudaF\u00E1cil\\frm_Professores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:15:38.38Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Form1.cs",
+              "RelativeDocumentMoniker": "Uc_12_Stephane_EstudaF\u00E1cil\\Form1.cs",
+              "ToolTip": "C:\\Users\\Silvana 2\\source\\repos\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Uc_12_Stephane_EstudaF\u00E1cil\\Form1.cs [Design]",
+              "RelativeToolTip": "Uc_12_Stephane_EstudaF\u00E1cil\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:15:38.389Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
